@@ -4,3 +4,4 @@ QA
   * Hard skill
   * Soft skill
 Testing Management
+- SDLC

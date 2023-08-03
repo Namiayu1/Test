@@ -4,3 +4,4 @@ QA
   * Hard skill (App)
   * Soft skill (Komunikasi)
 Testing Management
+- SDLC

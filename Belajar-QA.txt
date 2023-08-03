@@ -1,4 +1,6 @@
 QA
 - Pengenalan QA
 - Skill
+  * Hard skill
+  * Soft skill
 Testing Management

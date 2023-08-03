@@ -1,6 +1,6 @@
 QA
 - Pengenalan QA
 - Skill
-  * Hard skill
-  * Soft skill
+  * Hard skill (App)
+  * Soft skill (Komunikasi)
 Testing Management

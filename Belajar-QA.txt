@@ -1,7 +1,5 @@
 QA
 - Pengenalan QA
 - Skill
-  * Hard skill (App)
-  * Soft skill (Komunikasi)
 Testing Management
-- SDLC
+
